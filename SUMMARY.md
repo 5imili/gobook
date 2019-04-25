@@ -12,7 +12,7 @@
     * [接口](basic/interface.md)
     * [包管理](basic/package.md)
     * [反射](basic/reflect.md)
-    * [测试](basic/utest.md)
+    * [单元测试](basic/utest.md)
     * [测试mock](basic/gomock.md)
     * [并发](basic/goroutine.md)
     * [信号](basic/signal.md)
